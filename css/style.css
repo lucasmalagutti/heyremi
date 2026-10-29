@@ -3,11 +3,15 @@
 }
 
 body {
-    background-color: #131720;
+    background-color: #121212;
     font-family: 'Poppins', sans-serif;
+    color: #F5F5F3;
 }
 
 .card {
     width: 18rem;
 }
 
+.review-form-card {
+    width: 36rem;
+}
